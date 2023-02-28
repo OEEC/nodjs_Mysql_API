@@ -1,0 +1,8 @@
+npm i @babel/cli @babel/core @babel/node  @babel/preset-env morgan nodemon -D
+
+@babel/cli 
+@babel/core 
+@bable/node  
+@babel/present-env 
+morgan (para poder hacer console.log)
+nodemon (para que se refresquen los cambios en el servidor y reiniciarlo)
